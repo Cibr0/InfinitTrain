@@ -2,6 +2,9 @@
 
 empty é um jogo de RPG desenvolvido pela escola técnica estadual Jurandir Bezerra Lins (ETEJBL) para o GAMEJAM
 
+## link para poder jogar o empty
+https://gx.games/pt-br/games/vyslxl/empty/tracks/ff85d473-4527-473c-9d2d-5a059f45eb21/
+
 ## Breve descrição do jogo 
 
 O jogo Empty é considerado um jogo de RPG, com o objetivo  de promover a empatia  entre o jogador e os personagens da história. Esse jogo possui como protagonista da história o garoto chamado Max, no qual acorda numa floresta desconhecida e sem lembrança nenhuma de como chegou naquele local. 
